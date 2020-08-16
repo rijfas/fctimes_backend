@@ -1,9 +1,9 @@
 {
-  'length':0,
-  'data':[
+  "length":0,
+  "data":[
     {
-      'title':'First Notification',
-      'body':'This was the first notification'
+      "title":"First Notification",
+      "body":"This was the first notification"
     }
   ]
 }
