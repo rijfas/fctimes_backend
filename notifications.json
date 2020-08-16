@@ -8,7 +8,7 @@
     },
 {
       "title":"First Notification 2",
-      "body":"This was the first notification"
+      "body":"This was the first notification",
       "isLink":true,
       "link":"https://www.google.com"
     }
