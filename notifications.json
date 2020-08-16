@@ -1,8 +1,12 @@
 {
-  "length":0,
+  "length":2,
   "data":[
     {
       "title":"First Notification",
+      "body":"This was the first notification"
+    },
+{
+      "title":"First Notification 2",
       "body":"This was the first notification"
     }
   ]
