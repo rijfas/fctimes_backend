@@ -3,7 +3,7 @@
     {
     "title":"dept_test",
     "body":"dept_test_body",
-    "islink":true,
+    "isLink":true,
     "link":"https://www.google.com"
   }
   ]
