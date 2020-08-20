@@ -1,0 +1,37 @@
+{
+    "0": [
+        "Botany",
+        "Second Language",
+        "Chemistry",
+        "Zoology",
+        "Chemistry"
+    ],
+    "1": [
+        "Botany Lab",
+        "Botany Lab",
+        "Zoology",
+        "English",
+        "Second Language"
+    ],
+    "2": [
+        "Chemistry Lab",
+        "Chemistry Lab",
+        "English",
+        "Second Language",
+        "English"
+    ],
+    "3": [
+        "Second Language",
+        "English",
+        "Botany",
+        "Zoology Lab",
+        "Zoology Lab"
+    ],
+    "4": [
+        "Botany",
+        "Zoology",
+        "Second Language",
+        "English",
+        "Chemistry"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "0": [
+        "Chemistry",
+        "Mathematics",
+        "English",
+        "Second Language",
+        "English"
+    ],
+    "1": [
+        "Chemistry Lab",
+        "Chemistry Lab",
+        "English",
+        "English",
+        "Second Language"
+    ],
+    "2": [
+        "Second Language",
+        "English",
+        "Mathematics",
+        "Physics Lab",
+        "Physics Lab"
+    ],
+    "3": [
+        "Physics",
+        "Mathematics",
+        "Second Language",
+        "English",
+        "English"
+    ],
+    "4": [
+        "English",
+        "English",
+        "Mathematics",
+        "Physics",
+        "Chemistry"
+    ]
+}
