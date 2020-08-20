@@ -1,5 +1,5 @@
 {
-  "length":1,
+  "length":2,
   "data":[
     {
       "title":"Stay Home Stay Safe",
@@ -7,10 +7,10 @@
       "isLink":false
     },
 {
-      "title":"   ",
-      "body":"This was the first notification",
+      "title":"Second Allotment List for Admission to the UG Programmes Published",
+      "body":"Second allotment list for Admission 2020-21 has been  published. Applicants can check their status on their login. Last date to take admission (online) is 20/08/2020 click here to goto admission portal",
       "isLink":true,
-      "link":"https://www.google.com"
+      "link":"https://farookcollege.online/fcapp/"
     }
   ]
 }
