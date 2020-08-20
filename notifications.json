@@ -1,13 +1,13 @@
 {
-  "length":2,
+  "length":1,
   "data":[
     {
-      "title":"First Notification",
-      "body":"This was the first notification",
+      "title":"Stay Home Stay Safe",
+      "body":"Break the chain!",
       "isLink":false
     },
 {
-      "title":"First Notification 2",
+      "title":"   ",
       "body":"This was the first notification",
       "isLink":true,
       "link":"https://www.google.com"
