@@ -1,4 +1,4 @@
 {
-  "show":false,
-  "data":"This is the most important notification"
+  "show":true,
+  "data":"Bug fix released see notifications page"
 }
