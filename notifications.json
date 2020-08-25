@@ -2,9 +2,10 @@
   "length":2,
   "data":[
     {
-      "title":"Stay Home Stay Safe",
-      "body":"Break the chain!",
-      "isLink":false
+      "title":"Physics Attendance Link",
+      "body":"Click to open",
+      "isLink":true,
+      "link":"https://docs.google.com/forms/d/e/1FAIpQLSep5D0y2P7N7tzCXuyzF5WCwPeAGw4IyEI3JSpyYyXG8JXB3g/viewform?fbzx=7872110301256731914"
     },
 {
       "title":"Fourth Allotment List for Admission to the UG Programmes Published",
