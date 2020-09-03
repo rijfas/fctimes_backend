@@ -1,0 +1,12 @@
+{
+  "length":1,
+  "data":[
+    {
+    "date":"17/08/20",
+    "title":"exam_test",
+    "body":"dept_test_body",
+    "isLink":true,
+    "link":"https://www.google.com"
+  }
+  ]
+}
