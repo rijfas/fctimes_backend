@@ -2,11 +2,10 @@
   "length":1,
   "data":[
     {
-    "date":"17/08/20",
-    "title":"dept_test",
-    "body":"dept_test_body",
+    "title":"Live Webinar and Q&A",
+    "body":"with Joy Sebastian on 05/09/2020 3:30PM",
     "isLink":true,
-    "link":"https://www.google.com"
+    "link":"https://forms.gle/LVebEuquDAkMyXCn6"
   }
   ]
 }
