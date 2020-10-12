@@ -2,16 +2,16 @@
     "0": [
         "Software Engineering",
         "OOP Python",
-        "TBA",
-        "TBA",
+        "Physics",
+        "Mathematics",
         "RDBMS"
     ],
     "1": [
         "OOP Python",
-        "TBA",
-        "TBA",
-        "TBA",
-        "TBA"
+        "Mathematics",
+        "Physics",
+        "Physics Lab",
+        "Physics Lab"
     ],
     "2": [
         "RDBMS",
@@ -21,16 +21,16 @@
         "RDBMS Lab"
     ],
     "3": [
-        "TBA",
+        "Mathematics",
         "OOP Python",
         "RDBMS Lab",
         "Software Engineering",
         "RDBMS"
     ],
     "4": [
-        "TBA",
-        "TBA",
-        "TBA",
+        "Physics",
+        "Mathematics",
+        "Mathematics",
         "Software Engineering",
         "RDBMS Lab"
     ]
