@@ -1,37 +1,37 @@
 {
     "0": [
-        "Computer Organization And Architecture",
+        "COA",
         "Computer Networks",
-        "Project",
+        "Open Course",
         "PHP Lab",
         "PHP Lab"
     ],
     "1": [
         "Java",
+        "COA",
         "Computer Networks",
-        "Computer Organization And Architecture",
-        "PHP Lab",
-        "PHP Lab"
+        "Java Lab",
+        "Java Lab"
     ],
     "2": [
-        "Computer Organization And Architecture",
+        "COA",
         "Java",
         "Computer Networks",
         "PHP",
         "Project"
     ],
     "3": [
-        "Java",
-        "Computer Organization And Architecture",
+        "PHP",
+        "Project",
         "Computer Networks",
-        "Java Lab",
-        "PHP Lab"
+        "PHP Lab",
+        "Java Lab"
     ],
     "4": [
         "Java",
         "PHP",
-        "Office Automation",
-        "Office Automation",
-        "Computer Organization And Architecture"
+        "Open Course",
+        "Open Course",
+        "COA"
     ]
 }
