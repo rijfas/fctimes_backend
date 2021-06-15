@@ -7,16 +7,16 @@
         "Mathematics"
     ],
     "1": [
-        "Physics",
+        "Second Language",
         "English",
         "Mathematics",
-        "Second Language",
+        "Physics",
         "English"
     ],
     "2": [
         "English",
-        "Physics Lab",
-        "Physics Lab",
+        "CS Lab",
+        "CS Lab",
         "English",
         "Second Language"
     ],
@@ -29,9 +29,9 @@
     ],
     "4": [
         "Second Language",
-        "Computer Science",
-        "Computer Science",
         "Mathematics",
+        "CS Lab",
+        "CS Lab",
         "English"
     ]
 }
