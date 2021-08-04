@@ -8,21 +8,21 @@
     ],
     "1": [
         "Java",
-        "COA",
         "Computer Networks",
+        "COA",
         "Java Lab",
         "Java Lab"
     ],
     "2": [
         "COA",
         "Java",
+        "Project",
         "Computer Networks",
-        "PHP",
-        "Project"
+        "PHP"
     ],
     "3": [
         "PHP",
-        "Project",
+        "COA",
         "Computer Networks",
         "PHP Lab",
         "Java Lab"
@@ -32,6 +32,6 @@
         "PHP",
         "Open Course",
         "Open Course",
-        "COA"
+        "Project"
     ]
 }
